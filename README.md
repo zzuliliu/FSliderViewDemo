@@ -1,0 +1,2 @@
+# FSliderViewDemo
+一个可以创建类似新闻客户端无限滑动页面的Demo，其中已经封装了类FSliderView，只需要调用其中两个方法即可创建
